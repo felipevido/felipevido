@@ -52,7 +52,7 @@ class Introduction extends Me
 
     public function getMainGoal(): string
     {
-        return "Try'n create something people use daily.";
+        return "Try'n to create something people use daily.";
     }
 }
 ```
@@ -62,7 +62,7 @@ class Introduction extends Me
   position: General Designer; 
   company: Emcosta Digital; 
   favTools: Adobe Photoshop, Adobe Illustrator, Coreldraw, Canva; 
-  Skills: Branding, logos, mockups, Web Designer and UI; 
+  Skills: Branding, Logos, Mockups, Web Designer and UI; 
 }
 ```
 
@@ -139,11 +139,11 @@ Apple                    Mac Monterey          ███████████
 Name: Atlas                      Type: aplication
 Language: Ionic                  Status: branding/planning 
 Credits:
-  - Agradecimento especial pelo Design do cabeçalho 'Hello' a <a href="https://github.com/hedyhli/hedyhli">Hedy</a>!
-  - Obrigado aos demais desenvolvedores que disponibilizaram seus modelos do Readme.
-  - En breve estarei adicionando os demais nomes na seção de créditos.
-Plan:
-  WIN \o/
+  - Agradecimento especial pelo Designer do cabeçalho 'Hello': <a href="https://github.com/hedyhli/hedyhli">Hedy</a>!
+  - Obrigado aos demais desenvolvedores que disponibilizaram seus modelos do ReadMe.
+  - Em breve estarei adicionando os demais nomes na seção de créditos.
+Obs:
+  Não tenho Linkedin. A plataforma restringe todas as minhas contas sem motivo aparente... \o/
 </pre>
 
 ---
