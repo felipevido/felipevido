@@ -17,7 +17,7 @@
 
 </pre>
 
-Sou desenvolvedor **Front-End e Designer Geral** - Focando mais no Back-End e **desenvolvimento híbrido** com **tecnologias PWA.**
+Sou desenvolvedor **Front-End e Designer Geral** - Tentando focar mais no Back-End e **desenvolvimento híbrido** com **tecnologias PWA.**
 
 ---
 
@@ -32,7 +32,7 @@ class Introduction extends Me
     {
         return [
             'workplace' => [
-                'company' => 'Atlas Corp.',
+                'company' => 'Atlas Inc.',
                 'position' => 'Developing Manager'
                 'portfolioWeb' => 'https://felipevido.netlify.app'  
             ]
