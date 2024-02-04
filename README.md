@@ -1,6 +1,7 @@
 
 # Sou novo por aqui. Bem-vindo(a)! 😉
-
+*90% dos projetos que ver aqui foram criados antes de 2023. Muita coisa mudou, aprendi e melhorei. 
+Só criei tais repositórios pra não perder os arquivos.* 
 <pre>
       ___           ___           ___       ___       ___     
      /\__\         /\  \         /\__\     /\__\     /\  \    
@@ -33,7 +34,7 @@ class Introduction extends Me
         return [
             'workplace' => [
                 'company' => 'Atlas Inc.',
-                'position' => 'Developing Manager'
+                'position' => 'Developer'
                 'portfolioWeb' => 'https://felipevido.netlify.app'  
             ]
         ];
@@ -60,8 +61,8 @@ class Introduction extends Me
 ```css
 #felipevido { 
   position: General Designer; 
-  company: Emcosta Digital; 
-  favTools: Adobe Photoshop, Adobe Illustrator, Coreldraw, Canva; 
+  company: Atlas Inc; 
+  favTools: Adobe Photoshop, Adobe Illustrator, Coreldraw, Figma; 
   Skills: Branding, Logos, Mockups, Web Designer and UI; 
 }
 ```
@@ -80,35 +81,26 @@ const DailyUse = {
         atualProject: {
             specializing: ["PWA Technologies"]
         },
-        futureGoals: ["PHP", "MySql", "Oracle Database", "Python"],
+        futureGoals: ["PHP", "MySql", "Oracle Database", "C#"],
         fluentLanguages: ["english", "portuguese"],
-        projectsOnQueue: ["Brasil Compras", "SmartLab", "Perseverance", "Stock It"]
+        projectsOnQueue: ["Brasil Compras", "SmartLab", "Perseverance", "Stock It", "Atlas App", "Sky Shield"]
     },
-    usedToDo: ["CMS Web Sites", "Low-Code Systems", "Single page applications"],
     favQuote: "Steal Like an Artist"
 };
 ```
 
 ---
 
-## 🕒 Developing Routine
+## 🕒 Projects Progress
 ```text
-Monday                   15h to 19:30h         ███████████░░░░░░░░░░░░░░   18.75 % 
-Tuesday                  15h to 19:30h         ███████████░░░░░░░░░░░░░░   18.75 % 
-Wednesday                15h to 18:00h         █████░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Thursday                 15h to 18:00h         █████░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Friday                   15h to 17:00h         ███░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Saturday                 14h to 17:30h         ████████░░░░░░░░░░░░░░░░░   14.58 %
+Atlas App                2023                  ███████░░░░░░░░░░░░░░░░░░   18.75 % 
+Brasil Compras           2022                  ██████████░░░░░░░░░░░░░░░   35.20 % 
+SmartLab                 2023                  █████░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Stock It                 2020                  ██████████████░░░░░░░░░░░   54.50 % 
+Perseverance             2022                  ███░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Sky Shield               2024                  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 ```text
-
-
-📚 Ongoing Courses: 
-Dev. With Ionic          Udemy                 ███████████░░░░░░░░░░░░░░   69.04 % 
-React Native             Coder                 ████████░░░░░░░░░░░░░░░░░   32.34 % 
-Oracle Database          YouTube               █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-Java Web Services        YouTube               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-Flutter & Dart           Startto.dev           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 💻 Operating System:  
 Microsoft                Windows 11            █████████████████████████   100.00 %  
@@ -130,7 +122,7 @@ Apple                    Mac Monterey          ███████████
 1. Trabalhe comigo participando de algum projeto,
    envie sua mensagem em meu <a href="mailto:contatofelipevido@gmail.com">email</a>.
 2. Para avisos ou reinvindicações utilize algum dos meios de contato disponíveis.
-   Veja mais detalhes sobre minha carreira em meu<a href="http://felipevido.netlify.app">Portfólio</a>.
+   Veja mais detalhes em meu<a href="http://felipevido.netlify.app">Portfólio</a>.
   
  ~> <strong>Reporte Bugs ou Erros</strong>
  Canal: <a href="https://t.me/felipeviido">Telegram</a>
