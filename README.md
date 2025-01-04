@@ -1,7 +1,6 @@
 
 # Sou novo por aqui. Bem-vindo(a)! 😉
-*90% dos projetos que ver aqui foram criados antes de 2023. Muita coisa mudou, aprendi e melhorei. 
-Só criei tais repositórios pra não perder os arquivos.* 
+*Repositório criado especialmente para armazenar projetos anteriores a pandemia.* 
 <pre>
       ___           ___           ___       ___       ___     
      /\__\         /\  \         /\__\     /\__\     /\  \    
@@ -18,7 +17,7 @@ Só criei tais repositórios pra não perder os arquivos.*
 
 </pre>
 
-Sou desenvolvedor **Front-End e Designer Geral** - Tentando focar mais no Back-End e **desenvolvimento híbrido** com **tecnologias PWA.**
+Desenvolvedor **Front-End e Designer Geral** - Estudando **desenvolvimento híbrido.**
 
 ---
 
@@ -81,7 +80,7 @@ const DailyUse = {
         atualProject: {
             specializing: ["PWA Technologies"]
         },
-        futureGoals: ["PHP", "MySql", "Oracle Database", "C#"],
+        futureGoals: ["PHP", "MySql", "Node.js", "C#"],
         fluentLanguages: ["english", "portuguese"],
         projectsOnQueue: ["Brasil Compras", "SmartLab", "Perseverance", "Stock It", "Atlas App", "Sky Shield"]
     },
@@ -98,7 +97,7 @@ Brasil Compras           2022                  ██████████░
 SmartLab                 2023                  █████░░░░░░░░░░░░░░░░░░░░   12.50 % 
 Stock It                 2020                  ██████████████░░░░░░░░░░░   54.50 % 
 Perseverance             2022                  ███░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Sky Shield               2024                  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Radar App                2024                  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 ```text
 
@@ -121,19 +120,18 @@ Apple                    Mac Monterey          ███████████
  ~> <strong>Avisos.txt</strong>
 1. Trabalhe comigo participando de algum projeto,
    envie sua mensagem em meu <a href="mailto:contatofelipevido@gmail.com">email</a>.
-2. Para avisos ou reinvindicações utilize algum dos meios de contato disponíveis.
+2. Para avisos ou reivindicações utilize algum dos meios de contato disponíveis.
    Veja mais detalhes em meu<a href="http://felipevido.netlify.app">Portfólio</a>.
   
  ~> <strong>Reporte Bugs ou Erros</strong>
  Canal: <a href="https://t.me/felipeviido">Telegram</a>
 
  ~> <strong>Projeto em Execução</strong>
-Name: Atlas                      Type: aplication
-Language: Ionic                  Status: branding/planning 
+Name: Radar                         Type: aplication
+Language: Ionic/TS                  Status: front-end in progress 
 Credits:
   - Agradecimento especial pelo Designer do cabeçalho 'Hello': <a href="https://github.com/hedyhli/hedyhli">Hedy</a>!
-  - Obrigado aos demais desenvolvedores que disponibilizaram seus modelos do ReadMe.
-  - Em breve estarei adicionando os demais nomes na seção de créditos.
+  - Obrigado aos demais desenvolvedores que disponibilizaram seus modelos do Read Me.
 Obs:
   Não tenho Linkedin. A plataforma restringe todas as minhas contas sem motivo aparente... \o/
 </pre>
